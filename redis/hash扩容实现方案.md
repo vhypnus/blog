@@ -1,0 +1,1 @@
+从数据库select大量的数据，在应用内存做count操作，导致频繁的full gc 
